@@ -7,7 +7,7 @@
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100" align = "center"/>
 </div>
 
-Here are some ideas to get you started:
+### :woman_technologist: About Me :
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
