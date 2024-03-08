@@ -24,7 +24,7 @@
 - 🔭 I’m currently a data scientist 
 - 🌱 I’m currently learning AWS, Big Data
 - 👯 I’m looking to collaborate on data projects
-- 🤔 I’m looking for help with Ope source Projects
+- 🤔 I’m looking for help with Open source Projects
 - 💬 Ask me about Communities
 - 📫 How to reach me: esthernjihia44@gmail.com
 - 😄 Pronouns: She/Her
