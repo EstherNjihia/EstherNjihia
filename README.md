@@ -22,13 +22,10 @@
 ### :woman_technologist: About Me :
 
 - 🔭 I’m currently a data scientist 
-- 🌱 I’m currently learning AWS, Big Data
 - 👯 I’m looking to collaborate on data projects
-- 🤔 I’m looking for help with Open source Projects
 - 💬 Ask me about Communities
 - 📫 How to reach me: esthernjihia44@gmail.com
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: I love eating good food
+
 
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -42,6 +39,5 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-### :fire: My Stats :
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=EstherNjihia&theme=dark&background=000000)](https://git.io/streak-stats)
+
