@@ -23,8 +23,7 @@
 
 - 🔭 I’m currently a data scientist 
 - 👯 I’m looking to collaborate on data projects
-- 💬 Ask me about Communities
-- 📫 How to reach me: esthernjihia44@gmail.com
+  
 
 
 
